@@ -1,3 +1,4 @@
+```
 glist = Import["!geng 7 -t -C", "Graph6"];
 Grid[Partition[
   Table[Labeled[
@@ -6,5 +7,5 @@ Grid[Partition[
      ImageSize -> {50, 50}, VertexStyle -> GrayLevel[.6]], 
     Style[i, FontFamily -> "Baskerville"], Bottom], {i, 
     Length[glist]}], UpTo[10]], Frame -> All]
-
+```
     ![Uploading image.png…]()

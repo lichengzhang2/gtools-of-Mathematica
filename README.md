@@ -8,4 +8,7 @@ Grid[Partition[
     Style[i, FontFamily -> "Baskerville"], Bottom], {i, 
     Length[glist]}], UpTo[10]], Frame -> All]
 ```
-    ![Uploading image.png…]()
+
+
+![image](https://github.com/user-attachments/assets/be002fdf-1d45-447d-a74f-094793016eef)
+

@@ -12,3 +12,9 @@ Grid[Partition[
 
 ![image](https://github.com/user-attachments/assets/be002fdf-1d45-447d-a74f-094793016eef)
 
+2. Function: rotateGraph
+
+```
+ rotateGraph[g, 45 Degree]
+```
+![image](https://github.com/user-attachments/assets/c940e0d2-b93a-4f56-8311-49bcd632e1fc)
